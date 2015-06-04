@@ -1,0 +1,6 @@
+{
+	"name": "ness-copyright",
+	"dependencies": {
+		"polymer": "Polymer/polymer#master"
+	}
+}
