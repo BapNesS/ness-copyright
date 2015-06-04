@@ -1,6 +1,24 @@
 {
 	"name": "ness-copyright",
-	"dependencies": {
-		"polymer": "Polymer/polymer#master"
-	}
+    "version": "0.0.2",
+    "homepage": "https://github.com/BapNesS/ness-copyright",
+    "authors": [
+        "Baptiste Carlier <contact@baptistecarlier.com>"
+    ],
+    "description": "Polymer element for copyright",
+    "keywords": [
+        "polymer"
+    ],
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "polymer": "Polymer/polymer#^1.0.2"
+    }
 }
