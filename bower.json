@@ -1,25 +1,29 @@
 {
-    "name": "ness-copyright",
-    "version": "0.1",
-    "homepage": "https://github.com/BapNesS/ness-copyright",
-    "authors": [
-        "Baptiste Carlier <contact@baptistecarlier.com>"
-    ],
-    "description": "Polymer element for copyright",
-    "keywords": [
-        "polymer"
-    ],
-    "license": "MIT",
-    "private": true,
-    "ignore": [
-        "**/.*",
-        "node_modules",
-        "bower_components",
-        "test",
-        "tests"
-    ],
-    "main": "ness-copyright.html",
-    "dependencies": {
-        "polymer": "Polymer/polymer#^1.0.2"
-    }
+  "name": "ness-copyright",
+  "version": "0.1.1",
+  "description": "Polymer element for copyright footer.",
+  "main": "ness-copyright.html",
+  "private": true,
+  "homepage": "https://github.com/BapNesS/ness-copyright",
+  "authors": [
+    "Baptiste Carlier <contact@baptistecarlier.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BapNesS/ness-copyright.git"
+  },
+  "keywords": [
+    "polymer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.2"
+  }
 }
