@@ -1,6 +1,6 @@
 {
   "name": "ness-copyright",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Polymer element for copyright footer.",
   "main": "ness-copyright.html",
   "private": true,

@@ -1,5 +1,14 @@
 <!--
 `ness-copyright` is custom copyright component.
+
+## Styling
+
+The following custom properties and mixins are available for styling:
+
+Custom property | Description
+----------------|--------------
+`--ness-copyright` | Mixin applied to the container
+`--ness-copyright-link`    | The color of the link
 -->
 
 <link rel="import" href="../polymer/polymer.html">
@@ -10,6 +19,7 @@
     .copyright {
         text-align: right;
         padding-top:20px;
+        @apply(--ness-copyright)
     }
     a {
         text-decoration: none;
